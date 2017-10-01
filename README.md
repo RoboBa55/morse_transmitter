@@ -1,7 +1,10 @@
-# morse_transmitter
+# Morse transmitter
 * Morse code transmitter for cubesats or hamradio activity
 * Data from 🛰 🌌 space
 
+<br>
+<br> Morse keyer or transmitter. Translate text string to morse and transmit
+<br>
 <br> Source code by NEEDRONIX s.r.o. Slovakia, Europe (c)2017
 <br> This C source code is from cubesat satellite skCUBE prepared for public use.
 
