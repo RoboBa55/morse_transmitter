@@ -2,8 +2,8 @@
 * Morse code transmitter for cubesats or hamradio activity
 * Data from 🛰 🌌 space
 
-> Source code by NEEDRONIX s.r.o. Slovakia, Europe (c)Robert Laszlo, OM1LD 2017
-> This C source code is from cubesat satellite skCUBE prepared for public use.
+<br> Source code by NEEDRONIX s.r.o. Slovakia, Europe (c)Robert Laszlo, OM1LD 2017
+<br> This C source code is from cubesat satellite skCUBE prepared for public use.
 
 ### Author
 * Robert Laszlo, OM1LD
@@ -15,18 +15,18 @@
 
 
 ### NOTE
->  You can create any morse code with control characters "<" and ">"
->  This option has a different size
->  Special character - no pause between characters
->  Sample: <EEE> = s; <ET> = a;
->          <AR> | <ENN> | <AAE> | <EKE> | <EC> | <ETETE> = .-.-.
->
->  /--------- Start character. Starting special text
->  |/-------- First character
->  || /------ More characters
->  || | /---- End character. End of special text
->  || | |
->  <ab.z>
+<br>  You can create any morse code with control characters "<" and ">"
+<br>  This option has a different size
+<br>  Special character - no pause between characters
+<br>  Sample: <EEE> = s; <ET> = a;
+<br>          <AR> | <ENN> | <AAE> | <EKE> | <EC> | <ETETE> = .-.-.
+<br>
+<br>  /--------- Start character. Starting special text
+<br>  |/-------- First character
+<br>  || /------ More characters
+<br>  || | /---- End character. End of special text
+<br>  || | |
+<br>  <ab.z>
 
 
   You can use special command in text like speed change, long transmition or long pause with control characters "{" and "}"
