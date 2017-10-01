@@ -2,7 +2,7 @@
 * Morse code transmitter for cubesats or hamradio activity
 * Data from 🛰 🌌 space
 
-<br> Source code by NEEDRONIX s.r.o. Slovakia, Europe (c)Robert Laszlo, OM1LD 2017
+<br> Source code by NEEDRONIX s.r.o. Slovakia, Europe (c)2017
 <br> This C source code is from cubesat satellite skCUBE prepared for public use.
 
 ### Author
