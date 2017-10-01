@@ -50,19 +50,18 @@
 #define NX_MORSE_H_INCLUDED
 
 void NX_morse_init (void);
-void NX_morse_setwpm(int wpm);
+void NX_morse_setwpm(unsigned char wpm);
 void NX_morse_tx(char *data);
 
-/**************************************************************************************** 
-NOTE: This function Should not be modified!
-      The functions must be implemented in the user file
-*/
-void NX_Delay(uint16_t);
-void NX_Tx_on();
-void NX_Tx_off();
+/********************************************************************************
+ *   NOTE : This function must be modified or
+ *          implemented in your file
+ */
+//void NX_Delay(unsigned int ms_time);
+//void NX_Tx_on();
+//void NX_Tx_off();
 /* 
  *    End of note
  */
-
 
 #endif /* NX_MORSE_H_INCLUDED */
