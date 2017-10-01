@@ -1,9 +1,9 @@
 # morse_transmitter
-Morse code transmitter for cubesats or hamradio activity
-Data from 🛰 🌌 space
+* Morse code transmitter for cubesats or hamradio activity
+* Data from 🛰 🌌 space
 
-Source code by NEEDRONIX s.r.o. Slovakia, Europe (c)Robert Laszlo, OM1LD 2017
-This C source code is from cubesat satellite skCUBE prepared for public use.
+> Source code by NEEDRONIX s.r.o. Slovakia, Europe (c)Robert Laszlo, OM1LD 2017
+> This C source code is from cubesat satellite skCUBE prepared for public use.
 
 ### Author
 * Robert Laszlo, OM1LD
@@ -15,18 +15,18 @@ This C source code is from cubesat satellite skCUBE prepared for public use.
 
 
 ### NOTE
-	You can create any morse code with control characters "<" and ">"
-  This option has a different size
-  Special character - no pause between characters
-  Sample: <EEE> = s; <ET> = a;
-          <AR> | <ENN> | <AAE> | <EKE> | <EC> | <ETETE> = .-.-.
-
-  /--------- Start character. Starting special text
-  |/-------- First character
-  || /------ More characters
-  || | /---- End character. End of special text
-  || | |
-  <ab.z>
+>  You can create any morse code with control characters "<" and ">"
+>  This option has a different size
+>  Special character - no pause between characters
+>  Sample: <EEE> = s; <ET> = a;
+>          <AR> | <ENN> | <AAE> | <EKE> | <EC> | <ETETE> = .-.-.
+>
+>  /--------- Start character. Starting special text
+>  |/-------- First character
+>  || /------ More characters
+>  || | /---- End character. End of special text
+>  || | |
+>  <ab.z>
 
 
   You can use special command in text like speed change, long transmition or long pause with control characters "{" and "}"
